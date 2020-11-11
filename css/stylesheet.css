@@ -1,0 +1,59 @@
+* {
+    background-color: rgb(137, 121, 145);
+}
+
+ul {
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    align-content: center;
+}
+
+li {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.frozen {
+    background-color: blue;
+}
+
+.c5 {
+    background-color: rgb(0, 140, 255);
+}
+
+.c10 {
+    background-color: rgb(9, 214, 187);
+}
+
+.c15 {
+    background-color: rgb(0, 255, 255);
+}
+
+.c20 {
+    background-color: rgb(0, 255, 136);
+}
+
+.c25 {
+    background-color: rgb(136, 255, 0);
+}
+
+.c30 {
+    background-color: rgb(251, 255, 0);
+}
+
+.c35 {
+    background-color: rgb(255, 187, 0);
+}
+
+.c40 {
+    background-color: rgb(255, 115, 0);
+}
+
+.c45 {
+    background-color: rgb(255, 60, 0);
+}
+
+.burning {
+    background-color: rgb(255, 0, 0);
+}
